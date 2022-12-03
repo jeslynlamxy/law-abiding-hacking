@@ -1,5 +1,6 @@
 # law-abiding-hacking
-> wtf i ain't an accountant dressed like a tree, let's get it
+just my own dumb notes as an everyday chill ass farmer
+> no shit, sherlock
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
 - https://pentestingguide.com/ctf-for-beginners
