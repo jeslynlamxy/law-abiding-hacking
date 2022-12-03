@@ -1,6 +1,6 @@
 # law-abiding-hacking
-just my own dumb notes as an everyday chill ass farmer
 > no shit, sherlock
+just my own dumb notes as an everyday chill ass farmer
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
 - https://pentestingguide.com/ctf-for-beginners
