@@ -1,5 +1,4 @@
 # law-abiding-hacking
-> public version
 > ain't an accountant dressed like a tree, let's get it
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
