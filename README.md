@@ -1,12 +1,7 @@
 # law-abiding-hacking
-> https://www.reddit.com/r/hacking/wiki/index/
-- bandit
-- pico ctf
-- hack this site
-
-- hack the box
-- hacker 101 ctf
-- root me ctf
-- hack this
-- over the wire
-- vuln hub
+> public version
+> ain't an accountant dressed like a tree, let's get it
+- https://portswigger.net/web-security
+- https://github.com/apsdehal/awesome-ctf
+- https://pentestingguide.com/ctf-for-beginners
+- https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide
