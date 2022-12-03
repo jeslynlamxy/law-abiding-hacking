@@ -1,6 +1,5 @@
 # law-abiding-hacking
-> no shit, sherlock
-just my own dumb notes as an everyday chill ass farmer
+## ain't that great but, no shit, sherlock
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
 - https://pentestingguide.com/ctf-for-beginners
