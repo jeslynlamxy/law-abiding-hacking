@@ -1,5 +1,5 @@
 # law-abiding-hacking
-> ain't an accountant dressed like a tree, let's get it
+> wtf i ain't an accountant dressed like a tree, let's get it
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
 - https://pentestingguide.com/ctf-for-beginners
