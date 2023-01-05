@@ -1,8 +1,9 @@
 # law-abiding-hacking
+## begins feb 2022, roughly one year journey
 1. tryhackme
 2. hackthebox
 3. oscp coursework
-## ain't that great but, no shit, sherlock
+## sorry, i am the accountant
 - https://portswigger.net/web-security
 - https://github.com/apsdehal/awesome-ctf
 - https://pentestingguide.com/ctf-for-beginners
