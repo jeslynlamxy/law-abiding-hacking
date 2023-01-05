@@ -1,5 +1,5 @@
 # law-abiding-hacking
-## begins feb 2022, roughly one year journey
+## starting feb 2023, roughly one year journey
 1. tryhackme
 2. hackthebox
 3. oscp coursework
